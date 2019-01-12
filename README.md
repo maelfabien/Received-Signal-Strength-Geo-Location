@@ -1,5 +1,7 @@
 # Using Received Signal Strength to estimate location
 
+!! The maps are not loaded in the Notebooks due to the HTML format printing of GitHub. They can be found in the "Maps" section. !!
+
 ## Context
 Smart devices such as IoT sensors use low energy consuming networks such as the ones provided by Sigfox or Lora. But without using GPS networks, it becomes harder to estimate the position of the sensor. The aim of this study is to provide a geolocation estimation using Received Signal Strength Indicator in the context of IoT. The aim is to allow a geolocation of lowconsumption connected devices using the Sigfox network. State of the art modelsare able to be precise to the nearest kilometer in urban areas, and around tenkilometers in less populated areas.
 
